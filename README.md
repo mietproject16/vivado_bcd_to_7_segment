@@ -1,4 +1,6 @@
 ## vivado_bcd_to_7_segment
+## REG NUM :
+## NAME :
 ## EXPERIMENT – 2  Design and Implementation of BCD to 7-Segment Display Decoder
 
 ## AIM
